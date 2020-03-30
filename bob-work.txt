@@ -1,4 +1,4 @@
 feature2.4
-feature2.5
+feature2.5-fixed
 feature2.6
 
